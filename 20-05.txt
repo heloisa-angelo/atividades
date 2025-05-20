@@ -1,0 +1,63 @@
+ANÁLISE E PROJETO DE SISTEMAS
+TEMA: VIABILIDADE, RISCOS E DOCUMENTAÇÃO EM PROJETOS DE SOFTWARE
+
+Por que avaliar antes de desenvolver?
+  Um porjeto mal planejado pode:
+    -Estourar orçamento.
+    -Perder prazos.
+    -Criar sistemas inúteis ou com falhas graves.
+
+3 aspectos essenciais de um projeto:
+    1. Viabilidade
+
+      TIPO               O QUE AVALIA?
+
+      técnico            a tecnologia necessária está disponível?
+      economico          o custo vale a pena?
+      legal              está de acordo com leis e normas?
+      operacinoal        os usuários saberão usar? O sistema se adapta a rotina do usuário?
+      croograma          da tempo fazer?
+
+
+      EXEMPLO
+
+      a equipe sabe usar React?
+      R$5K para algo que trará R$200 de retorno?
+      LGPD, direitos autorais
+      sistema todolist ou sistema simples para idoso
+      1 mês para desenvolver algo que levaria 3 meses
+
+    
+    2. Análise de riscos
+      É qualquer fator que possa atrapalhar ou impedir o sucesso do projeto.
+      Técnico: usar uma tecnologia pouco conhecida
+      De reqisitos: requisito mal definidos.
+      De cornograma: prazos curtos ou equipe reduzida.
+      Humanos: rotatividade da equipe, falta de experiência.
+      Externos: leis novas, fornecedores que falham.
+      
+        🔺 Matriz de risco (impacto x probabilidade)
+                                Impacto
+                            baixo     alto
+              Baixa   +-----------------------+
+                      |  Ok       |  Cuidado  |
+      Probabilidade   +-----------------------+
+                      | Alerta    |  Perigo   |
+               Alta   +-----------------------+
+             
+        3. Docuentação de requisistos
+          Por que documentar?
+          - Facilita o entendimento entre cliente e equipe
+          - Evita erros por mal-entendidos
+          - Serve como guia de desencolvimento 
+
+           Documentos principais: 
+           ### 1. SRS (SoftwareRequrimnets Specifcatiob
+           - Objetivo do sistema
+           - Requisitos 
+
+
+
+
+
+    
